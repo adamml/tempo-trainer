@@ -10,6 +10,8 @@ class TempoTrainerView extends WatchUi.SimpleDataField {
 	hidden var _attentionMode; // Values: 0 = vibrate; 1 = vibrate + tine; 2 = tone;
 	
 	hidden var _metronome;
+	
+	hidden var _vibeProfile;
 
 	function initialize() {
         SimpleDataField.initialize();
@@ -19,6 +21,21 @@ class TempoTrainerView extends WatchUi.SimpleDataField {
 		
         _dataFieldMode = 0;
         _attentionMode = 1;
+        
+        if(_dataFieldMode == 1 || _dataFieldMode == 2)
+        {
+        	_vibeProfile = [new Attention.VibeProfile(50, 250)];
+        }
+        else
+        {
+        	_vibeProfile = [
+        		new Attention.VibeProfile(50, 200),
+        		new Attention.VibeProfile(0, 200),
+        		new Attention.VibeProfile(50, 200),
+        		new Attention.VibeProfile(0, 200),
+        		new Attention.VibeProfile(50, 200)
+        	];
+        }
 	}
 	
 	function compute(info) {
@@ -34,6 +51,11 @@ class TempoTrainerView extends WatchUi.SimpleDataField {
     				}
 				}
 			}
+			if (_attentionMode < 2){
+				if(Attention has :vibrate) {
+					Attention.vibrate(_vibeProfile);
+				}
+			}
 			_metronome = 1;
 		}
 		else {
@@ -45,6 +67,11 @@ class TempoTrainerView extends WatchUi.SimpleDataField {
     				else{
     					Attention.playTone(5);
     				}
+				}
+			}
+			if (_attentionMode < 2){
+				if(Attention has :vibrate) {
+					Attention.vibrate(_vibeProfile);
 				}
 			}
 			_metronome = 0;
