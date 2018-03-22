@@ -34,3 +34,4 @@ X _ _ _
 </p>
 
 ## Managing Settings
+Settings should be ,managed through Garmin Connect Mobile or Garmin Express.
