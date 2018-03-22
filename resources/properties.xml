@@ -32,7 +32,7 @@
 			</settingConfig>
 		</setting>
 		
-		<setting propertyKey="@Properties.rate" title="@Strings.rateTitle" prompt="@Strings.ratePrompt">
+		<setting propertyKey="@Properties.rate" title="@Strings.rateTitle" prompt="@Strings.ratePrompt" helpUrl="https://github.com/adamml/tempo-trainer/blob/master/doc/rate-settings.md">
 			<settingConfig type="numeric" readonly="false" required="true" min="1" max="599"/>
 		</setting>
 		

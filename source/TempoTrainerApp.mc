@@ -4,6 +4,7 @@ using Toybox.WatchUi as Ui;
 class TempoTrainerApp extends App.AppBase {
 
 	hidden var _appVersion;
+	hidden var _a;
 
     function initialize() {
         AppBase.initialize();
@@ -21,11 +22,12 @@ class TempoTrainerApp extends App.AppBase {
     }
 
     function getInitialView() {
-        return [ new TempoTrainerView() ];
+    	_a = new TempoTrainerView();
+        return [ _a ];
     }
 
 	function onSettingsChanged() {
-        Ui.requestUpdate();
+        _a.updateSettings();
     }
 
 }

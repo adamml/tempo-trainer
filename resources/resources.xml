@@ -1,0 +1,7 @@
+<resources>
+	<menu id="MainMenu">
+    	<menu-item id="mode" label="@Strings.modeTitle" />
+    	<menu-item id="notify" label="@Strings.notifyTitle" />
+    	<menu-item id="rate" label="@Strings.rateTitle" />
+	</menu>
+</resources>

@@ -1,6 +1,5 @@
 using Toybox.Application as App;
 using Toybox.WatchUi;
-using Toybox.System;
 using Toybox.Graphics;
 using Toybox.Attention;
 
@@ -108,7 +107,7 @@ class TempoTrainerView extends WatchUi.SimpleDataField {
 		_nextRate = 0 + _rate;
 	}
 	
-	function onUpdate(dc) {
+	function updateSettings() {
 		if(App has :Properties)
 		{
         	_dataFieldMode = App.Properties.getValue("mode");
