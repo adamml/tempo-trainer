@@ -1,4 +1,5 @@
 using Toybox.Application as App;
+using Toybox.WatchUi as Ui;
 
 class TempoTrainerApp extends App.AppBase {
 
@@ -11,7 +12,6 @@ class TempoTrainerApp extends App.AppBase {
         } else {
         	_appVersion = Application.getApp().getProperty("appVersion");
         }
-        System.println(_appVersion);
     }
 
     function onStart(state) {
@@ -20,17 +20,12 @@ class TempoTrainerApp extends App.AppBase {
     function onStop(state) {
     }
 
-	function onSettingsChanged() {
-		if(Toybox.Application has :Storage){
-			
-		}
-		else{
-		
-		}
-	}
-
     function getInitialView() {
         return [ new TempoTrainerView() ];
+    }
+
+	function onSettingsChanged() {
+        Ui.requestUpdate();
     }
 
 }

@@ -3,6 +3,8 @@
 		<property id="appName" type="string">Tempo Trainer</property>
 		<property id="appVersion" type="string">1.0.0</property>
 		<property id="mode" type="number">0</property>
+		<property id="notify" type="number">0</property>
+		<property id="rate" type="number">1</property>
 	</properties>
 	
 	<settings>
@@ -15,10 +17,23 @@
 		</setting>
 		
 		<setting propertyKey="@Properties.mode" title="@Strings.modeTitle">
-			<settingConfig type="list" readonly="false">
+			<settingConfig type="list" readonly="false" required="true">
 				<listEntry value="0">@Strings.modeRate</listEntry>
 				<listEntry value="1">@Strings.modeBpm</listEntry>
 			</settingConfig>
+		</setting>
+		
+		<setting propertyKey="@Properties.notify" title="@Strings.notifyTitle">
+			<settingConfig type="list" readonly="false" required="true">
+				<listEntry value="0">@Strings.notifyVibrate</listEntry>
+				<listEntry value="1">@Strings.notifyVibrateTone</listEntry>
+				<listEntry value="2">@Strings.notifyTone</listEntry>
+				<listEntry value="3">@Strings.notifyVisual</listEntry>
+			</settingConfig>
+		</setting>
+		
+		<setting propertyKey="@Properties.rate" title="@Strings.rateTitle" prompt="@Strings.ratePrompt">
+			<settingConfig type="numeric" readonly="false" required="true" min="1" max="599"/>
 		</setting>
 		
 	</settings>

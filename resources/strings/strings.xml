@@ -5,4 +5,11 @@
     <string id="modeTitle">Mode</string>
     <string id="modeRate">Rate</string>
     <string id="modeBpm">Beats Per Minute</string>
+    <string id="rateTitle">Rate</string>
+    <string id="ratePrompt">In rate mode this indicates the number of seconds between an alert. In this mode the range is 1-599.&#13;&#13;In Beats Per Minute mode this indicates the number of alerts to be played each minute. Although the range which may be input remains at 1-599 (as a limitation of ConnectIQ), the functional range for the datafield is 10-60 and the datafield will adjust dynamically to this range.</string>
+    <string id="notifyTitle">Notification Mode</string>
+    <string id="notifyVibrate">Vibrate + Visual</string>
+    <string id="notifyVibrateTone">Vibrate, Tone + Visual</string>
+    <string id="notifyTone">Tone + Visual</string>
+    <string id="notifyVisual">Visual Only</string>
 </strings>
