@@ -2,19 +2,33 @@ using Toybox.Application as App;
 
 class TempoTrainerApp extends App.AppBase {
 
+	hidden var _appVersion;
+
     function initialize() {
         AppBase.initialize();
+        if(Toybox.Application has :Storage){
+        	_appVersion = App.Properties.getValue("appVersion");
+        } else {
+        	_appVersion = App.getApp().getProperty("appVersion");
+        }
+        System.println(_appVersion);
     }
 
-    // onStart() is called on application start up
     function onStart(state) {
     }
 
-    // onStop() is called when your application is exiting
     function onStop(state) {
     }
 
-    // Return the initial view of your application here
+	function onSettingsChanged() {
+		if(Toybox.Application has :Storage){
+			
+		}
+		else{
+		
+		}
+	}
+
     function getInitialView() {
         return [ new TempoTrainerView() ];
     }

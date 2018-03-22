@@ -1,3 +1,8 @@
 <strings>
-    <string id="AppName">TempoTrainer</string>
+    <string id="AppName">Tempo Trainer</string>
+    <string id="AppNameTitle">Datafield</string>
+    <string id="AppVersionTitle">Version</string>
+    <string id="modeTitle">Mode</string>
+    <string id="modeRate">Rate</string>
+    <string id="modeBpm">Beats Per Minute</string>
 </strings>
