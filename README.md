@@ -11,6 +11,7 @@ An alert is given when the metronome clicks over, and this can be set to tone; t
 
 The data field visuals assume a 4:4 time and repeat through the following pattern:
 
+<p align="center">
 X _ _ _
 
 _ X _ _
@@ -18,5 +19,6 @@ _ X _ _
 _ _ X _
 
 _ _ _ X
+</p>
 
 ## Managing Settings
