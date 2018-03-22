@@ -13,11 +13,14 @@ The data field visuals assume a 4:4 time and repeat through the following patter
 
 <p align="center">
 X _ _ _
-
+</p>
+<p align="center">
 _ X _ _
-
+</p>
+<p align="center">
 _ _ X _
-
+</p>
+<p align="center">
 _ _ _ X
 </p>
 
