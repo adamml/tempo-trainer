@@ -23,5 +23,14 @@ _ _ X _
 <p align="center">
 _ _ _ X
 </p>
+<p align="center">
+_ _ X _
+</p>
+<p align="center">
+_ X _ _
+</p>
+<p align="center">
+X _ _ _
+</p>
 
 ## Managing Settings
