@@ -6,10 +6,10 @@ class TempoTrainerApp extends App.AppBase {
 
     function initialize() {
         AppBase.initialize();
-        if(Toybox.Application has :Storage){
+        if(App has :Properties){
         	_appVersion = App.Properties.getValue("appVersion");
         } else {
-        	_appVersion = App.getApp().getProperty("appVersion");
+        	_appVersion = Application.getApp().getProperty("appVersion");
         }
         System.println(_appVersion);
     }
