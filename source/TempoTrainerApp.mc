@@ -1,5 +1,6 @@
 using Toybox.Application as App;
 using Toybox.WatchUi as Ui;
+using Toybox.Lang;
 
 class TempoTrainerApp extends App.AppBase {
 
@@ -8,10 +9,14 @@ class TempoTrainerApp extends App.AppBase {
 
     function initialize() {
         AppBase.initialize();
-        if(App has :Properties){
-        	_appVersion = App.Properties.getValue("appVersion");
-        } else {
-        	_appVersion = Application.getApp().getProperty("appVersion");
+        try{
+        	if(App has :Properties){
+        		_appVersion = App.Properties.getValue("appVersion");
+        	} else {
+        		_appVersion = Application.getApp().getProperty("appVersion");
+        	}
+        } catch (e instanceof Lang.Exception) {
+        
         }
     }
 

@@ -2,6 +2,7 @@ using Toybox.Application as App;
 using Toybox.WatchUi;
 using Toybox.Graphics;
 using Toybox.Attention;
+using Toybox.Lang;
 
 class TempoTrainerView extends WatchUi.SimpleDataField {
 
@@ -32,20 +33,22 @@ class TempoTrainerView extends WatchUi.SimpleDataField {
 		label = "Tempo Trainer";
 		
 		//TODO: add the ability to switch modes in configuration
-		
-		if(App has :Properties)
-		{
-        	_dataFieldMode = App.Properties.getValue("mode");
-        	_attentionMode = App.Properties.getValue("notify");
-        	_rate = App.Properties.getValue("rate");
-        }
-        else
-        {
-        	_dataFieldMode = Application.getApp().getProperty("mode");
-        	_attentionMode = Application.getApp().getProperty("notify");
-        	_rate = Application.getApp().getProperty("rate");
-        }
+		try{
+			if(App has :Properties)
+			{
+        		_dataFieldMode = App.Properties.getValue("mode");
+        		_attentionMode = App.Properties.getValue("notify");
+        		_rate = App.Properties.getValue("rate");
+        	}
+        	else
+        	{
+        		_dataFieldMode = Application.getApp().getProperty("mode");
+        		_attentionMode = Application.getApp().getProperty("notify");
+        		_rate = Application.getApp().getProperty("rate");
+        	}
+        } catch (e instanceof Lang.Exception) {
         
+        }
         _metronome = 0;
         
         _message = ["X _ _ _", "_ X _ _", "_ _ X _", "_ _ _ X", "_ _ X _", "_ X _ _"];
@@ -108,17 +111,21 @@ class TempoTrainerView extends WatchUi.SimpleDataField {
 	}
 	
 	function updateSettings() {
-		if(App has :Properties)
-		{
-        	_dataFieldMode = App.Properties.getValue("mode");
-        	_attentionMode = App.Properties.getValue("notify");
-        	_rate = App.Properties.getValue("rate");
-        }
-        else
-        {
-        	_dataFieldMode = Application.getApp().getProperty("mode");
-        	_attentionMode = Application.getApp().getProperty("notify");
-        	_rate = Application.getApp().getProperty("rate");
+		try{
+			if(App has :Properties)
+			{
+        		_dataFieldMode = App.Properties.getValue("mode");
+        		_attentionMode = App.Properties.getValue("notify");
+        		_rate = App.Properties.getValue("rate");
+        	}
+        	else
+        	{
+        		_dataFieldMode = Application.getApp().getProperty("mode");
+        		_attentionMode = Application.getApp().getProperty("notify");
+        		_rate = Application.getApp().getProperty("rate");
+        	}
+        } catch (e instanceof Lang.Exception) {
+        
         }
         computeRateAndAlertProfile();
 	}
