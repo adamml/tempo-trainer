@@ -133,8 +133,8 @@ class TempoTrainerView extends WatchUi.SimpleDataField {
 	function computeRateAndAlertProfile(){
 	
 		if(_dataFieldMode == 1){
-			if(_rate < 10){
-				_rate = 10;
+			if(_rate < 1){
+				_rate = 1;
 			}
 			else if(_rate > 60){
 				_rate = 60;
