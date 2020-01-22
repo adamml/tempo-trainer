@@ -1,3 +1,5 @@
+#Rate Settings
+
 The editing of the rate settings is limited by Connect IQ.
 
 It is not possible to switch the contextualisation of the rate settings when switching between the two modes of the app (timed intervals and beats per minute).

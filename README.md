@@ -35,3 +35,9 @@ X _ _ _
 
 ## Managing Settings
 Settings should be managed through Garmin Connect Mobile or Garmin Express.
+
+### On view only settings
+Starting with release 1.2.0, Tempo Trainer has an option to operate in an always on mode (default) or in an on view only mode. See [here](https://github.com/adamml/tempo-trainer/blob/master/doc/on-view-only-settings.md) for more details.
+
+### Rate Settings
+Rate settings are described [here](https://github.com/adamml/tempo-trainer/blob/master/doc/rate-settings.md)

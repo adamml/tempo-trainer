@@ -5,6 +5,7 @@
 		<property id="mode" type="number">0</property>
 		<property id="notify" type="number">0</property>
 		<property id="rate" type="number">1</property>
+		<property id="onViewOnly" type="number">0</property>
 	</properties>
 	
 	<settings>
@@ -20,6 +21,13 @@
 			<settingConfig type="list" readonly="false" required="true">
 				<listEntry value="0">@Strings.modeRate</listEntry>
 				<listEntry value="1">@Strings.modeBpm</listEntry>
+			</settingConfig>
+		</setting>
+		
+		<setting propertyKey="@Properties.onViewOnly" title="@Strings.onViewOnlyTitle" prompt="@Strings.onViewOnlyPrompt" helpUrl="https://github.com/adamml/tempo-trainer/blob/master/doc/on-view-only-settings.md">
+			<settingConfig type="list" readonly="false" required="true">
+				<listEntry value="0">@Strings.onViewOnlyFalse</listEntry>
+				<listEntry value="1">@Strings.onViewOnlyTrue</listEntry>
 			</settingConfig>
 		</setting>
 		

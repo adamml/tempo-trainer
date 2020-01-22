@@ -1,0 +1,5 @@
+#On View Only
+
+If you choose "yes", then the Tempo Trainer data field will only provide audible and vibration alerts when it is visible on the watch face.
+
+Choose "no" to have these alerts always happen when the Tempo Trainer data field is enabled for an activity.

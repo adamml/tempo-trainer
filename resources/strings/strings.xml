@@ -12,4 +12,8 @@
     <string id="notifyVibrateTone">Vibrate, Tone + Visual</string>
     <string id="notifyTone">Tone + Visual</string>
     <string id="notifyVisual">Visual Only</string>
+    <string id="onViewOnlyFalse">No</string>
+    <string id="onViewOnlyPrompt">Select "no" to have the data field use vibration and/or tone alerts at all times when the data field is enabled for an activity (default); select "yes" to only have alerts active when the data field is in view on the watch screen.</string>
+    <string id="onViewOnlyTitle">Use vibration and/or tone alerts only when the data field is visible</string>
+    <string id="onViewOnlyTrue">Yes</string>
 </strings>
