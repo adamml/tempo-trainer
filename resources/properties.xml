@@ -1,7 +1,7 @@
 <resources>
 	<properties>
 		<property id="appName" type="string">Tempo Trainer</property>
-		<property id="appVersion" type="string">1.1.0</property>
+		<property id="appVersion" type="string">1.4.0</property>
 		<property id="mode" type="number">0</property>
 		<property id="notify" type="number">0</property>
 		<property id="rate" type="number">1</property>
