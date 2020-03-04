@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="3" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="3" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="3" lineNum="12" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="3" lineNum="13" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="3" lineNum="14" pc="268435493" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="3" lineNum="16" pc="268435530" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="4" lineNum="23" pc="268435610" symbol="onStart"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="5" lineNum="26" pc="268435615" symbol="onStop"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="6" lineNum="29" pc="268435620" symbol="getInitialView"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="6" lineNum="30" pc="268435624" symbol="getInitialView"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="6" lineNum="31" pc="268435654" symbol="getInitialView"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="7" lineNum="34" pc="268435678" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerApp.mc" id="7" lineNum="35" pc="268435682" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerMenu.mc" id="9" lineNum="3" pc="268435701" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerMenu.mc" id="9" lineNum="4" pc="268435705" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerMenu.mc" id="10" lineNum="7" pc="268435724" symbol="onMenu"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerMenu.mc" id="10" lineNum="8" pc="268435728" symbol="onMenu"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerMenu.mc" id="10" lineNum="9" pc="268435812" symbol="onMenu"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerMenu.mc" id="12" lineNum="14" pc="268435816" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerMenu.mc" id="12" lineNum="15" pc="268435820" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerMenu.mc" id="13" lineNum="18" pc="268435839" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerMenu.mc" id="13" lineNum="19" pc="268435843" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerMenu.mc" id="13" lineNum="21" pc="268435857" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerMenu.mc" id="13" lineNum="24" pc="268435871" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="34" pc="268435886" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="35" pc="268435890" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="36" pc="268435908" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="39" pc="268435921" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="40" pc="268435921" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="42" pc="268435936" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="43" pc="268435970" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="44" pc="268436004" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="45" pc="268436038" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="49" pc="268436075" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="50" pc="268436114" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="51" pc="268436153" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="52" pc="268436192" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="57" pc="268436271" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="59" pc="268436284" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="60" pc="268436376" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="61" pc="268436389" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="15" lineNum="63" pc="268436402" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="66" pc="268436415" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="67" pc="268436419" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="68" pc="268436439" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="69" pc="268436459" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="70" pc="268436476" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="71" pc="268436488" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="72" pc="268436505" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="73" pc="268436520" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="76" pc="268436559" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="77" pc="268436576" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="78" pc="268436591" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="82" pc="268436624" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="83" pc="268436641" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="86" pc="268436657" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="89" pc="268436673" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="90" pc="268436692" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="91" pc="268436709" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="93" pc="268436725" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="16" lineNum="96" pc="268436756" symbol="compute"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="17" lineNum="99" pc="268436775" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="17" lineNum="100" pc="268436779" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="18" lineNum="103" pc="268436796" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="18" lineNum="104" pc="268436800" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="19" lineNum="107" pc="268436817" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="19" lineNum="108" pc="268436821" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="20" lineNum="111" pc="268436838" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="20" lineNum="112" pc="268436842" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="21" lineNum="115" pc="268436859" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="21" lineNum="116" pc="268436863" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="21" lineNum="117" pc="268436879" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="22" lineNum="120" pc="268436902" symbol="onHide"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="22" lineNum="121" pc="268436906" symbol="onHide"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="22" lineNum="122" pc="268436923" symbol="onHide"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="23" lineNum="126" pc="268436937" symbol="onShow"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="23" lineNum="127" pc="268436941" symbol="onShow"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="24" lineNum="130" pc="268436952" symbol="updateSettings"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="24" lineNum="131" pc="268436956" symbol="updateSettings"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="24" lineNum="132" pc="268436956" symbol="updateSettings"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="24" lineNum="134" pc="268436971" symbol="updateSettings"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="24" lineNum="135" pc="268437005" symbol="updateSettings"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="24" lineNum="136" pc="268437039" symbol="updateSettings"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="24" lineNum="140" pc="268437076" symbol="updateSettings"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="24" lineNum="141" pc="268437115" symbol="updateSettings"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="24" lineNum="142" pc="268437154" symbol="updateSettings"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="24" lineNum="147" pc="268437233" symbol="updateSettings"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="150" pc="268437246" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="152" pc="268437250" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="153" pc="268437267" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="154" pc="268437284" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="156" pc="268437300" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="157" pc="268437317" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="159" pc="268437333" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="163" pc="268437364" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="166" pc="268437386" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="168" pc="268437403" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="169" pc="268437461" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="173" pc="268437504" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="180" pc="268437738" symbol="computeRateAndAlertProfile"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\TempoTrainer\\source\\TempoTrainerView.mc" id="25" lineNum="182" pc="268437778" symbol="computeRateAndAlertProfile"/>
+<entry filename="Rez" id="33" lineNum="19" pc="268437804" symbol="initialize"/>
+<entry filename="Rez" id="33" lineNum="20" pc="268437808" symbol="initialize"/>
+<entry filename="Rez" id="33" lineNum="21" pc="268437826" symbol="initialize"/>
+<entry filename="Rez" id="33" lineNum="22" pc="268437882" symbol="initialize"/>
+<entry filename="Rez" id="33" lineNum="23" pc="268437938" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="35" symbol="RUNNING"/>
+<entry field="true" id="51" symbol="_a"/>
+<entry field="true" id="27" symbol="rateTitle"/>
+<entry id="8388987" method="true" symbol="vibrate"/>
+<entry field="true" id="31" symbol="ratePrompt"/>
+<entry id="8390425" module="true" symbol="Properties"/>
+<entry id="49" method="true" symbol="computeRateAndAlertProfile"/>
+<entry field="true" id="20" symbol="AppNameTitle"/>
+<entry id="8389748" method="true" symbol="onTimerStop"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="16" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="32" symbol="onViewOnlyTrue"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="22" symbol="modeTitle"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="30" symbol="onViewOnlyPrompt"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="34" symbol="NOT_RUNNING"/>
+<entry id="8389752" method="true" symbol="onTimerReset"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry field="true" id="28" symbol="onViewOnlyTitle"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="26" symbol="AppName"/>
+<entry field="true" id="36" symbol="_dataFieldMode"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="12" object="true" symbol="TempoTrainerView"/>
+<entry field="true" id="25" symbol="notifyTitle"/>
+<entry field="true" id="23" symbol="notifyTone"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="9" object="true" symbol="TempoTrainerApp"/>
+<entry field="true" id="45" symbol="_timerState"/>
+<entry field="true" id="29" symbol="notifyVisual"/>
+<entry field="true" id="18" symbol="onViewOnlyFalse"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="50" symbol="_appVersion"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="53" symbol="rate"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="11" object="true" symbol="TempoTrainerMenuDelegate"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="40" symbol="_toneProfile"/>
+<entry id="8389747" method="true" symbol="onTimerStart"/>
+<entry field="true" id="17" symbol="AppVersionTitle"/>
+<entry id="8388985" method="true" symbol="playTone"/>
+<entry id="52" symbol="notify"/>
+<entry field="true" id="24" symbol="modeRate"/>
+<entry field="true" id="46" symbol="_isHidden"/>
+<entry id="48" method="true" symbol="updateSettings"/>
+<entry field="true" id="19" symbol="notifyVibrate"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="8389750" method="true" symbol="onTimerResume"/>
+<entry field="true" id="37" symbol="_attentionMode"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry field="true" id="44" symbol="_nextRate"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="42" symbol="_messageCounter"/>
+<entry id="8389749" method="true" symbol="onTimerPause"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8390041" method="true" symbol="mode"/>
+<entry field="true" id="33" symbol="modeBpm"/>
+<entry field="true" id="43" symbol="_rate"/>
+<entry field="true" id="41" symbol="_message"/>
+<entry field="true" id="38" symbol="_metronome"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="10" object="true" symbol="TempoTrainerMenu"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="39" symbol="_vibeProfile"/>
+<entry field="true" id="21" symbol="notifyVibrateTone"/>
+<entry field="true" id="47" symbol="_noShowMode"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435615" name="state" stackId="1" startPc="268435610"/>
+<entry endPc="268435620" name="state" stackId="1" startPc="268435615"/>
+<entry endPc="268435886" name="item" stackId="1" startPc="268435839"/>
+<entry endPc="268436775" name="info" stackId="1" startPc="268436415"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="190" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="269" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="308" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="347" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="394" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="425" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="456" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="487" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="654" parentId="globals" symbolId="TempoTrainerMenu" type="class"/>
+<dataEntry offset="709" parentId="globals" symbolId="TempoTrainerView" type="class"/>
+<dataEntry offset="948" parentId="globals" symbolId="TempoTrainerMenuDelegate" type="class"/>
+<dataEntry offset="1003" parentId="globals" symbolId="TempoTrainerApp" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="TempoTrainerApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="TempoTrainerApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="TempoTrainerApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="TempoTrainerApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="TempoTrainerApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TempoTrainerMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="TempoTrainerMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TempoTrainerMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="TempoTrainerMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TempoTrainerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="TempoTrainerView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerStart" parent="TempoTrainerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerStop" parent="TempoTrainerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerPause" parent="TempoTrainerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerResume" parent="TempoTrainerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerReset" parent="TempoTrainerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="TempoTrainerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="TempoTrainerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="updateSettings" parent="TempoTrainerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="computeRateAndAlertProfile" parent="TempoTrainerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
