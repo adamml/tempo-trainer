@@ -1,4 +1,4 @@
-#Rate Settings
+# Rate Settings
 
 The editing of the rate settings is limited by Connect IQ.
 
